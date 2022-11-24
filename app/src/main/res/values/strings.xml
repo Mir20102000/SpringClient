@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpringClient</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="branch">Branch</string>
+    <string name="save_employee">SAVE EMPLOYEE</string>
+    <string name="fab_content_desc">open activity to input new employee</string>
+</resources>
